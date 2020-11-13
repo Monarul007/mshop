@@ -39,3 +39,7 @@ Route::group(['middleware' => ['auth']], function(){
     Route::get('/edit-account', 'CustomersController@editProfile')->name('customers.edit.profile');
 
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

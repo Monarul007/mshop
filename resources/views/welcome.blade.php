@@ -5,84 +5,52 @@
 	<section id="hero-section" class="hero-section" style="margin-top: 15px; overflow: hidden;">
 		<div class="container">
 			<div class="row">
-			<div class="hero-slider owl-carousel col-md-9 owl-loaded owl-drag">
-																
-				
-																
-				
-							<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1702px, 0px, 0px); transition: all 0s ease 0s; width: 5108px;"><div class="owl-item cloned" style="width: 851.25px;"><div class="hs-item set-bg" data-setbg="admin/uploads/sliders/2c8bad75c1.jpg" style="background-image: url(&quot;admin/uploads/sliders/2c8bad75c1.jpg&quot;);">
-					<div class="container">
-						<div class="row">
-							<div class="col-xl-6 col-lg-7 text-white">
-								<span>New Arrival</span>
-								<h2>Diamond Rings</h2>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus-pendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+				<div class="hero-slider owl-carousel col-md-9">
+					<div class="hs-item set-bg" data-setbg="admin/uploads/sliders/2c8bad75c1.jpg">
+						<div class="container">
+							<div class="row">
+								<div class="col-xl-6 col-lg-7 text-white">
+									<span>New Arrival</span>
+									<h2>Diamond Rings</h2>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus-pendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div></div><div class="owl-item cloned" style="width: 851.25px;"><div class="hs-item set-bg" data-setbg="admin/uploads/sliders/27a0bc38cf.jpg" style="background-image: url(&quot;admin/uploads/sliders/27a0bc38cf.jpg&quot;);">
-					<div class="container">
-						<div class="row">
-							<div class="col-xl-6 col-lg-7 text-white">
-								<span>New Arrival</span>
-								<h2>Spendid Pearls</h2>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus-pendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+					<div class="hs-item set-bg" data-setbg="admin/uploads/sliders/2c8bad75c1.jpg">
+						<div class="container">
+							<div class="row">
+								<div class="col-xl-6 col-lg-7 text-white">
+									<span>New Arrival</span>
+									<h2>Diamond Rings</h2>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus-pendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div></div><div class="owl-item active" style="width: 851.25px;"><div class="hs-item set-bg" data-setbg="admin/uploads/sliders/2c8bad75c1.jpg" style="background-image: url(&quot;admin/uploads/sliders/2c8bad75c1.jpg&quot;);">
-					<div class="container">
-						<div class="row">
-							<div class="col-xl-6 col-lg-7 text-white">
-								<span>New Arrival</span>
-								<h2>Diamond Rings</h2>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus-pendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+					<div class="hs-item set-bg" data-setbg="admin/uploads/sliders/2c8bad75c1.jpg">
+						<div class="container">
+							<div class="row">
+								<div class="col-xl-6 col-lg-7 text-white">
+									<span>New Arrival</span>
+									<h2>Diamond Rings</h2>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus-pendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div></div><div class="owl-item" style="width: 851.25px;"><div class="hs-item set-bg" data-setbg="admin/uploads/sliders/27a0bc38cf.jpg" style="background-image: url(&quot;admin/uploads/sliders/27a0bc38cf.jpg&quot;);">
-					<div class="container">
-						<div class="row">
-							<div class="col-xl-6 col-lg-7 text-white">
-								<span>New Arrival</span>
-								<h2>Spendid Pearls</h2>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus-pendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-							</div>
-						</div>
-					</div>
-				</div></div><div class="owl-item cloned" style="width: 851.25px;"><div class="hs-item set-bg" data-setbg="admin/uploads/sliders/2c8bad75c1.jpg" style="background-image: url(&quot;admin/uploads/sliders/2c8bad75c1.jpg&quot;);">
-					<div class="container">
-						<div class="row">
-							<div class="col-xl-6 col-lg-7 text-white">
-								<span>New Arrival</span>
-								<h2>Diamond Rings</h2>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus-pendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-							</div>
-						</div>
-					</div>
-				</div></div><div class="owl-item cloned" style="width: 851.25px;"><div class="hs-item set-bg" data-setbg="admin/uploads/sliders/27a0bc38cf.jpg" style="background-image: url(&quot;admin/uploads/sliders/27a0bc38cf.jpg&quot;);">
-					<div class="container">
-						<div class="row">
-							<div class="col-xl-6 col-lg-7 text-white">
-								<span>New Arrival</span>
-								<h2>Spendid Pearls</h2>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus-pendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-							</div>
-						</div>
-					</div>
-				</div></div></div></div><div class="slider-nav-warp"><div class="slider-nav"><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="flaticon-left-arrow-1"></i></button><button type="button" role="presentation" class="owl-next"><i class="flaticon-right-arrow-1"></i></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div></div></div>
-			<div class="hero-banner col-md-3">
-				<div class="single-banner banner-1">
-					<a class="banner-thumb" href="req_quotation.php">
-												<img src="admin/uploads/0552942f5d.jpg" alt="" title="Submit your custom design">
-										</a>
 				</div>
-			</div>
+				<div class="hero-banner col-md-3">
+					<div class="single-banner banner-1">
+						<a class="banner-thumb" href="req_quotation.php">
+							<img src="admin/uploads/0552942f5d.jpg" alt="" title="Submit your custom design">
+						</a>
+					</div>
+				</div>
 			</div>
 		</div>
 	</section>
 	<!-- Hero section end -->
-
 
 	<!-- letest product section -->
 	<section class="display top-letest-product-section">
